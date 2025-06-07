@@ -107,6 +107,16 @@ frames:
       roll: 0.0
       pitch: 0.0
       yaw: 4.71238898038469
+  map_0/tile_1_4:
+    relative_to: ~
+    unit: tiles
+    pose:
+      x: 1.0
+      y: 4.0
+      z: 0.0
+      roll: 0.0
+      pitch: 0.0
+      yaw: 4.71238898038469
   map_0/tile_2_0:
     relative_to: ~
     unit: tiles
