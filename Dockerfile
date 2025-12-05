@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1.4
 # parameters
-ARG EXERCISE_NAME="ekf-localization"
+ARG EXERCISE_NAME="lx-ekf-localization"
 ARG DESCRIPTION="Duckiebot localization with encoders and apriltags"
 ARG MAINTAINER="Liam P"
 
@@ -9,7 +9,7 @@ ARG MAINTAINER="Liam P"
 ARG ARCH
 ARG DISTRO=ente
 ARG DOCKER_REGISTRY=docker.io
-ARG BASE_IMAGE=dt-core
+ARG BASE_IMAGE=dt-ros-commons
 ARG BASE_TAG=${DISTRO}-${ARCH}
 ARG LAUNCHER=default
 

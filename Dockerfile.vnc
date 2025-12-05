@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1.4
 # parameters
-ARG EXERCISE_NAME="ekf-localization"
+ARG EXERCISE_NAME="lx-ekf-localization"
 ARG DESCRIPTION="Localizing with april tags and an encoder"
 ARG MAINTAINER="Liam P "
 
