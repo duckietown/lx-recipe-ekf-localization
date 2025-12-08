@@ -2,3 +2,5 @@
 dt-apriltags
 # TODO change to pypi version once stable and pushed
 git+https://github.com/duckietown/duckietown-sdk.git@ente
+lib-dt-computer-vision==1.0.0
+
