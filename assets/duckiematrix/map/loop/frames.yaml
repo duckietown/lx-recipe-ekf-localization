@@ -21,12 +21,12 @@ frames:
   map_0/vehicle_0:
     relative_to: map_0
     pose:
-      x: 1.06
-      y: 0.685
+      x: 0.41
+      y: 0.61
       z: 0.0
       roll: 0.0
       pitch: 0.0
-      yaw: 0.0
+      yaw: 1.57
   map_0/tile_0_0:
     relative_to: ~
     unit: tiles
