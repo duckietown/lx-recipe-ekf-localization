@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=EKF Exercise
+Comment=EKF - Exercise
+Exec=/usr/bin/launch-ekf-exercise.sh
+Icon=/root/.icons/exercise-ekf-localization.png
+Terminal=true
+X-KeepTerminal=true
+StartupNotify=true
