@@ -3,3 +3,4 @@ dt-apriltags
 lib-dt-computer-vision==1.0.0
 lib-dt-state-estimation==0.0.10
 tqdm
+imageio
