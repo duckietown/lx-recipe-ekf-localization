@@ -35,8 +35,8 @@ for the notebook panels).
 ## Running
 
 Students only need the LX: `dts code build -R ROBOT`, `dts code workbench [-m] -R ROBOT`,
-`dts code editor`. The robot must run the ROS 2 stack (`dts stack up -R ROBOT ros2/duckiebot` and
-`dts stack up -R ROBOT ros2-core/default`). To develop the recipe locally:
+`dts code editor`. The robot must run the ROS 2 stack (`dts stack up -H ROBOT ros2/duckiebot` and
+`dts stack up -H ROBOT ros2-core/default`). To develop the recipe locally:
 
     dts code editor --recipe /absolute/path/to/lx-recipe-ekf-localization
     dts code workbench -R ROBOT --recipe /absolute/path/to/lx-recipe-ekf-localization
