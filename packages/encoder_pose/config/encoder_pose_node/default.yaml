@@ -1,0 +1,4 @@
+/**:
+  ros__parameters:
+    # publication rate of the dead-reckoning pose [Hz]
+    rate: 2.0
