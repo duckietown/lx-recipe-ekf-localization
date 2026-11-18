@@ -4,3 +4,7 @@ lib-dt-computer-vision==1.0.0
 lib-dt-state-estimation==0.0.10
 tqdm
 imageio
+# notebook panels (lx_ros2_tools.panel)
+ipywidgets
+ipympl
+matplotlib
